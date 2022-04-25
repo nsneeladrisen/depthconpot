@@ -1,10 +1,10 @@
 # depthconpot
 Datasets for the hotspot predictor depthconpot <br />
 train_set.tsv - Training set <br />
-test_set1.tsv - Testing set1 <br />
-test_set2.tsv - Testing set2 <br />
-test_set3.tsv - Testing set3 <br />
-test_set4.tsv - Testing set4<br />
+test_set1A.tsv - Testing set1A <br />
+test_set1B.tsv - Testing set1B <br />
+test_set1C.tsv - Testing set1C <br />
+test_set2.tsv - Testing set2<br />
 
 Column descriptors <br />
 pdbid - PDBID <br />
